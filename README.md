@@ -4,7 +4,8 @@ Authors: Pubali Roy, Pranav R Bidare, Priya Bharadwaj, Dr. Manikandan J
 
 Paper: https://ieeexplore.ieee.org/document/10134295
 # Overview
-This paper presents the development of a real-time speech recognition system employing Generative Adversarial Networks (GANs) aimed at enhancing the functionality of consumer electronics. This work capitalizes on the rapid advancements in GAN technology, typically utilized for image processing, and adapts it for one-dimensional audio signals by converting them into two-dimensional spectrograms for processing.
+This paper presents the development of a real-time speech recognition system employing Generative Adversarial Networks (GANs) aimed at enhancing the functionality of consumer electronics. 
+By transforming audio signals into two-dimensional spectrograms, the system allows GANs to leverage their image processing strengths for more accurate and faster speech recognition. This project demonstrates significant advancements in enhancing device interactivity with real-time processing capabilities, suitable for integration into various consumer electronics.
 
 # Methodology
 The proposed system begins by capturing an audio signal through a microphone. These audio signals are initially processed to distinguish speech from ambient noise through an endpoint detection. It  uses energy thresholds to identify the active parts of the audio signal where speech is present. 
