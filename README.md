@@ -1,6 +1,7 @@
 # Design of a Real-Time GAN-based Speech Recognizer for Consumer Electronics
 
 Authors: Pubali Roy, Pranav R Bidare, Priya Bharadwaj, Dr. Manikandan J
+
 Paper: https://ieeexplore.ieee.org/document/10134295
 # Overview
 This paper presents the development of a real-time speech recognition system employing Generative Adversarial Networks (GANs) aimed at enhancing the functionality of consumer electronics. This work capitalizes on the rapid advancements in GAN technology, typically utilized for image processing, and adapts it for one-dimensional audio signals by converting them into two-dimensional spectrograms for processing.
